@@ -47,7 +47,7 @@
 <img align="left" alt="Chakra UI" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.lRb07N34hcsNKufxVWkFoAAAAA&pid=Api&P=0" />
 <img align="left" alt="React JS" width="30px" src="https://tse2.mm.bing.net/th?id=OIP.d2_YJpQXd074spMEeB5SdwHaGb&pid=Api&P=0" />
 <img align="left" alt="Next js" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.Oqlgvyv_ggFbeR2-nhQsTAD6D6&pid=Api&P=0" />
-<img align="left" alt="Laravel" width="30px" src="https://tse1.mm.bing.net/th?id=OIP.m0s2io11J82PR7miqan92wHaDt&pid=Api&P=0" />
+<img align="left" alt="Laravel" width="30px" src="https://logospng.org/download/laravel/logo-laravel-1024.png" />
 
 <br />
 <br />
