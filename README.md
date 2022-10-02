@@ -59,6 +59,12 @@
 <a href="https://www.facebook.com/arifkopaja/">
 <img align="left" alt="facebook" width="30px" src="https://tse1.mm.bing.net/th?id=OIP.4nx6EPAeXi9PIW3YaVmVLwHaHa&pid=Api&P=0" />
 </a>
+<a href="https://www.instagram.com/arif.yudi26/">
 <img align="left" alt="Instagram" width="30px" src="https://www.iservice.at/wp-content/uploads/2020/12/Instagram-Flaticon.png" />
+</a>
+<a href="https://www.linkedin.com/in/arif-yudi-09aa65176/">
 <img align="left" alt="linked" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />
+</a>
+<a href="https://www.techinasia.com/profile/arif-yudi-suryo-utomo">
 <img align="left" alt="Techasia" width="30px" src="https://homebase-wp-s3-data.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/06/07193808/techasia-logo-transparent.png" />
+</a>
