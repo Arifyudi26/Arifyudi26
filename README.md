@@ -48,6 +48,7 @@
 <img align="left" alt="React JS" width="30px" src="https://tse2.mm.bing.net/th?id=OIP.d2_YJpQXd074spMEeB5SdwHaGb&pid=Api&P=0" />
 <img align="left" alt="Next js" width="30px" src="https://static.frontendmasters.com/resources/2020-07-29-next-js/thumb.jpg" />
 <img align="left" alt="Laravel" width="30px" src="https://logospng.org/download/laravel/logo-laravel-1024.png" />
+<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
 
 <br />
 <br />
