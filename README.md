@@ -43,7 +43,7 @@
 
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png" />
-<img align="left" alt="Bootstrap" width="30px" src="[https://tse3.mm.bing.net/th?id=OIP.c4RBIyTHaeRH08T4bp_waAHaGO&pid=Api&P=0](https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png)" />
+<img align="left" alt="Bootstrap" width="30px" src="[[https://tse3.mm.bing.net/th?id=OIP.c4RBIyTHaeRH08T4bp_waAHaGO&pid=Api&P=0](https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png)](https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png)" />
 <img align="left" alt="Chakra UI" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.lRb07N34hcsNKufxVWkFoAAAAA&pid=Api&P=0" />
 <img align="left" alt="React JS" width="30px" src="https://tse2.mm.bing.net/th?id=OIP.d2_YJpQXd074spMEeB5SdwHaGb&pid=Api&P=0" />
 <img align="left" alt="Next js" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.Oqlgvyv_ggFbeR2-nhQsTAD6D6&pid=Api&P=0" />
