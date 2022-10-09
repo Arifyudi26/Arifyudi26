@@ -38,7 +38,7 @@
 - etc
 
 ---
-# My Github [Github](https://github.com/Arifyudi26/) 
+# My Gitlab [Gitlab](https://gitlab.com/arifyudisuryoutomo04) 
 
 ### Languages and Tools:
 
