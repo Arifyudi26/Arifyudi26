@@ -12,9 +12,9 @@
 
 ## Education:
 
-#### 1. [Nusa Mandiri University](https://www.bsi.ac.id) | D3 information system | Margonda Depok `{2023 - 2024}`
+#### 1. [Nusa Mandiri University](https://www.nusamandiri.ac.id) | S1 Information System | Margonda Depok `{2023 - 2024}`
 
-#### 1. [Bina Sarana Informatika University](https://www.bsi.ac.id) | D3 information system | Margonda Depok `{2019 - 2022}`
+#### 1. [Bina Sarana Informatika University](https://www.bsi.ac.id) | D3 Information System | Margonda Depok `{2019 - 2022}`
 
 ## Work Experience:
 
@@ -30,6 +30,14 @@
 - Create features according to client requirements
 - Retrieve data from database using Microsoft SQL with query method
 - Maintain software
+- etc
+
+#### 2. [PT. Asian Sigma Techbology](#) | Frontend Engineer | Jakarta `2022-2024`
+
+- Slicing Design
+- SEO
+- Integration
+- Deployment By AWS
 - etc
 
 ---
