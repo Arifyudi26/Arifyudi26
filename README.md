@@ -12,14 +12,9 @@
 
 ## Education:
 
-#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id) | D3 information system | Margonda Depok `{2019 - 2022}`
+#### 1. [Nusa Mandiri University](https://www.bsi.ac.id) | D3 information system | Margonda Depok `{2023 - 2024}`
 
-- Represented a software development competition at UNY
-- Volunteer team
-
-<!-- #### 2. [SMA YASIFA](#) | IPS | Bogor `-`
-
--  -->
+#### 1. [Bina Sarana Informatika University](https://www.bsi.ac.id) | D3 information system | Margonda Depok `{2019 - 2022}`
 
 ## Work Experience:
 
