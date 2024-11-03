@@ -1,75 +1,178 @@
-# Hi there, I'm Arif - aka [Arif Yudi Suryo Utomo](#) 👋
+<h1> Hi there! I'm Arif Yudi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
-## About me:
+<br/>
 
-<!-- - 🔭 I’m currently working at [](https://) -->
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlmdGVkOGhxOGY2OW51djd6dXdwZXg5ZHhxMjFsenVzejJvanloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy-downsized.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🌱 I’m currently learning HTML,CSS, Javascript,PHP etc
-- 👯 I’m looking to collaborate as Data Analyst or QA
-- 🤔 I’am looking for advice for software development
-- 💬 Ask me about anything
-- 📫 How to reach me: yudi17564@gmail.com
+- 😄 Pronouns: He/Him.
 
-## Education:
+- 🌏 I'm from Indonesia.
 
-#### 1. [Nusa Mandiri University](https://www.nusamandiri.ac.id) | S1 Information System | Margonda Depok `{2023 - 2024}`
+- 🌱 Currently as **Software Engineer**, can be frontend, backend, semi-fullstack.
 
-#### 1. [Bina Sarana Informatika University](https://www.bsi.ac.id) | D3 Information System | Margonda Depok `{2019 - 2022}`
+- 📖 I'm learning about **React, React Native, Next.js, Laravel**
 
-## Work Experience:
+- 📫 Reach me at **yudi17564@gmail.com**
 
-#### 1. [PT. Bengawan Cable vision](https://siplah.adasemua.id/) | Web Development | Jakarta `{2020 - 2022}`
+- 🎮 I love playing game & learning something new.
 
-- Integration as needed
-- Create features according to the needs of the Ministry of Education and Culture
-- Maintain software
-- Etc
 
-#### 2. [PT. Tristan Artha Media](#) | Devs Ops | Jakarta `2022-2022`
+<br/>
 
-- Create features according to client requirements
-- Retrieve data from database using Microsoft SQL with query method
-- Maintain software
-- etc
-
-#### 2. [PT. Asian Sigma Techbology](#) | Frontend Engineer | Jakarta `2022-2024`
-
-- Slicing Design
-- SEO
-- Integration
-- Deployment By AWS
-- etc
-
----
-# My Gitlab [Gitlab](https://gitlab.com/arifyudisuryoutomo04) 
-
-### Languages and Tools:
-
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://www.pinpng.com/pngs/m/133-1334709_more-free-bootstrap-png-images-bootstrap-logo-vector.png" />
-<img align="left" alt="Chakra UI" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.lRb07N34hcsNKufxVWkFoAAAAA&pid=Api&P=0" />
-<img align="left" alt="React JS" width="30px" src="https://tse2.mm.bing.net/th?id=OIP.d2_YJpQXd074spMEeB5SdwHaGb&pid=Api&P=0" />
-<img align="left" alt="Next js" width="30px" src="https://static.frontendmasters.com/resources/2020-07-29-next-js/thumb.jpg" />
-<img align="left" alt="Laravel" width="30px" src="https://logospng.org/download/laravel/logo-laravel-1024.png" />
-<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
-
-<br />
-<br />
-
----
-
-### Connect with me:
-
-<a href="https://www.facebook.com/arifkopaja/">
-<img align="left" alt="facebook" width="30px" src="https://tse1.mm.bing.net/th?id=OIP.4nx6EPAeXi9PIW3YaVmVLwHaHa&pid=Api&P=0" />
+### Connect with me 🔗 :
+<a href="mailto:yudi17564@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.instagram.com/arif.yudi26/">
-<img align="left" alt="Instagram" width="30px" src="https://www.iservice.at/wp-content/uploads/2020/12/Instagram-Flaticon.png" />
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/arif-yudi-09aa65176/">
-<img align="left" alt="linked" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />
+<a href="https://www.instagram.com/arif.yudii" target="_blank">
+<img src="https://img.shields.io/badge/Arif%20Yudi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arif-yudi-09aa65176/" target="_blank">
+<img src="https://img.shields.io/badge/Arif%20Yudi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://medium.com/@ArifYudi" target="_blank">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-<a href="https://www.techinasia.com/profile/arif-yudi-suryo-utomo">
-<img align="left" alt="Techasia" width="30px" src="https://homebase-wp-s3-data.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/06/07193808/techasia-logo-transparent.png" />
+<br>
+
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px>
+
+<!-- Programming Languages -->
+### Programming
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+
+<a href="https://www.php.net//" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</a>
+
+
+### Backend Development
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+
+<a href="https://laravel.com//" target="_blank">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</a>
+
+<!-- Web Development -->
+### Web Development
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img alt="NextJS" src="https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</a>
+
+<!-- Mobile Development -->
+### Mobile Development
+<a href="https://reactnative.dev/" target="_blank">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</a>
+
+<!-- Frontend Frameworks/Libraries -->
+### Frontend Frameworks
+<a href="https://tailwindcss.com/" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
+
+<a href="https://material-ui.com/" target="_blank">
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
+</a>
+
+<a href="https://ui.shadcn.com/" target="_blank">
+  <img alt="Shadcn UI" src="https://img.shields.io/badge/Shadcn--UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+<a href="https://tanstack.com/query/v3" target="_blank">
+  <img alt="React Query" src="https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+</a>
+
+<a href="https://socket.io/" target="_blank">
+  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+</a>
+
+<a href="https://github.com/pmndrs/zustand" target="_blank">
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-F15A24?style=for-the-badge&logo=zustand&logoColor=white">
+</a>
+
+<a href="https://react-hook-form.com/" target="_blank">
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white">
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</a>
+
+<a href="https://www.chakra-ui.com/" target="_blank">
+  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-38B2AC?style=for-the-badge&logo=chakra-ui&logoColor=white">
+</a>
+
+<a href="https://redux.js.org/introduction/getting-started/" target="_blank">
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Redux-311C87?style=for-the-badge&logo=redux&logoColor=white">
+</a>
+
+<!-- Database -->
+### Database
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://www.postgresql.org//" target="_blank">
+  <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+
+<!-- Version Control and Collaboration -->
+### Utilities Tools
+<a href="https://github.com/" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img alt="Figma" src="https://img.shields.io/badge/Gitlab-F24E1E?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+
+<br/>
+<br/>
+
+## Activity Stats <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px>
+
+<!-- Tools and Platforms -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<br/>
+
+<img align="right" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Arifyudi26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width="350" src='https://github-readme-stats.vercel.app/api?username=Arifyudi26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<br/>
+<img width="350" src='https://github-readme-streak-stats.herokuapp.com/?user=Arifyudi26&theme=vue-dark&hide_border=true&count_private=true' />
+<br/>
